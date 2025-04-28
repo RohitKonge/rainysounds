@@ -1,0 +1,8 @@
+# robots.txt for https://rainysounds.live/
+User-agent: *
+Allow: /
+Allow: /music*.mp3
+Allow: /assets/
+
+# Sitemap location
+Sitemap: https://rainysounds.live/sitemap.xml
